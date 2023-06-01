@@ -4,9 +4,9 @@ import openai
 from telebot import types
 from googletrans import Translator
 
-TOKEN = '6198347508:AAGJRmdq8xHU6htOt9CygGBNPSy9wa9dIAI'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
-openai.api_key = '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'
+openai.api_key = ''
 
 
 # ______________________________________________________________________________________________________________________
