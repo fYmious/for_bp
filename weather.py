@@ -4,9 +4,9 @@ import openai
 from telebot import types
 import random
 
-TOKEN = '6198347508:AAGJRmdq8xHU6htOt9CygGBNPSy9wa9dIAI'
+TOKEN = 'your telegram bot token'
 bot = telebot.TeleBot(TOKEN)
-openai.api_key = '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'
+openai.api_key = 'your ai api key'
 
 
 # ______________________________________________________________________________________________________________________
